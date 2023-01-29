@@ -1,0 +1,247 @@
+,inning,batting_team,bowling_team,ball,non_striker,batsman,bowler,extra_runs,batsman_run,total_runs,extras,player_out,elimination_kind,fielders_caught
+0,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.1,Abhishek Sharma,JJ Roy,Mohammed Siraj,0,1,1,0,0,0,0
+1,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.2,JJ Roy,Abhishek Sharma,Mohammed Siraj,0,0,0,0,0,0,0
+2,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.3,JJ Roy,Abhishek Sharma,Mohammed Siraj,0,0,0,0,0,0,0
+3,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.4,JJ Roy,Abhishek Sharma,Mohammed Siraj,0,0,0,0,0,0,0
+4,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.5,JJ Roy,Abhishek Sharma,Mohammed Siraj,0,0,0,0,0,0,0
+5,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,0.6,JJ Roy,Abhishek Sharma,Mohammed Siraj,0,1,1,0,0,0,0
+6,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.1,JJ Roy,Abhishek Sharma,GHS Garton,0,4,4,0,0,0,0
+7,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.2,JJ Roy,Abhishek Sharma,GHS Garton,0,6,6,0,0,0,0
+8,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.3,JJ Roy,Abhishek Sharma,GHS Garton,0,0,0,0,0,0,0
+9,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.4,JJ Roy,Abhishek Sharma,GHS Garton,0,2,2,0,0,0,0
+10,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.5,JJ Roy,Abhishek Sharma,GHS Garton,0,0,0,0,Abhishek Sharma,caught,GJ Maxwell
+11,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,1.6,KS Williamson,JJ Roy,GHS Garton,0,0,0,0,0,0,0
+12,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.1,JJ Roy,KS Williamson,Mohammed Siraj,1,0,1,wides,0,0,0
+13,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.2,JJ Roy,KS Williamson,Mohammed Siraj,0,0,0,0,0,0,0
+14,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.3,JJ Roy,KS Williamson,Mohammed Siraj,0,0,0,0,0,0,0
+15,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.4,JJ Roy,KS Williamson,Mohammed Siraj,0,0,0,0,0,0,0
+16,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.5,JJ Roy,KS Williamson,Mohammed Siraj,0,4,4,0,0,0,0
+17,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.6,JJ Roy,KS Williamson,Mohammed Siraj,0,0,0,0,0,0,0
+18,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,2.7,JJ Roy,KS Williamson,Mohammed Siraj,0,4,4,0,0,0,0
+19,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.1,KS Williamson,JJ Roy,Shahbaz Ahmed,0,0,0,0,0,0,0
+20,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.2,KS Williamson,JJ Roy,Shahbaz Ahmed,0,1,1,0,0,0,0
+21,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.3,JJ Roy,KS Williamson,Shahbaz Ahmed,0,1,1,0,0,0,0
+22,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.4,KS Williamson,JJ Roy,Shahbaz Ahmed,0,0,0,0,0,0,0
+23,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.5,KS Williamson,JJ Roy,Shahbaz Ahmed,0,0,0,0,0,0,0
+24,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,3.6,KS Williamson,JJ Roy,Shahbaz Ahmed,0,1,1,0,0,0,0
+25,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.1,KS Williamson,JJ Roy,GHS Garton,0,4,4,0,0,0,0
+26,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.2,KS Williamson,JJ Roy,GHS Garton,0,1,1,0,0,0,0
+27,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.3,JJ Roy,KS Williamson,GHS Garton,1,0,1,wides,0,0,0
+28,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.4,JJ Roy,KS Williamson,GHS Garton,0,4,4,0,0,0,0
+29,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.5,JJ Roy,KS Williamson,GHS Garton,0,1,1,0,0,0,0
+30,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.6,KS Williamson,JJ Roy,GHS Garton,1,0,1,wides,0,0,0
+31,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.7,KS Williamson,JJ Roy,GHS Garton,0,1,1,0,0,0,0
+32,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,4.8,JJ Roy,KS Williamson,GHS Garton,0,4,4,0,0,0,0
+33,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.1,KS Williamson,JJ Roy,Shahbaz Ahmed,0,1,1,0,0,0,0
+34,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.2,JJ Roy,KS Williamson,Shahbaz Ahmed,0,0,0,0,0,0,0
+35,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.3,JJ Roy,KS Williamson,Shahbaz Ahmed,0,1,1,0,0,0,0
+36,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.4,KS Williamson,JJ Roy,Shahbaz Ahmed,0,4,4,0,0,0,0
+37,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.5,KS Williamson,JJ Roy,Shahbaz Ahmed,0,0,0,0,0,0,0
+38,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,5.6,KS Williamson,JJ Roy,Shahbaz Ahmed,0,1,1,0,0,0,0
+39,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.1,KS Williamson,JJ Roy,HV Patel,0,2,2,0,0,0,0
+40,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.2,KS Williamson,JJ Roy,HV Patel,0,4,4,0,0,0,0
+41,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.3,KS Williamson,JJ Roy,HV Patel,0,0,0,0,0,0,0
+42,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.4,KS Williamson,JJ Roy,HV Patel,0,0,0,0,0,0,0
+43,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.5,KS Williamson,JJ Roy,HV Patel,0,1,1,0,0,0,0
+44,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,6.6,JJ Roy,KS Williamson,HV Patel,0,1,1,0,0,0,0
+45,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.1,JJ Roy,KS Williamson,YS Chahal,0,0,0,0,0,0,0
+46,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.2,JJ Roy,KS Williamson,YS Chahal,0,2,2,0,0,0,0
+47,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.3,JJ Roy,KS Williamson,YS Chahal,0,0,0,0,0,0,0
+48,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.4,JJ Roy,KS Williamson,YS Chahal,0,0,0,0,0,0,0
+49,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.5,JJ Roy,KS Williamson,YS Chahal,0,0,0,0,0,0,0
+50,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,7.6,JJ Roy,KS Williamson,YS Chahal,0,1,1,0,0,0,0
+51,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.1,JJ Roy,KS Williamson,Shahbaz Ahmed,0,0,0,0,0,0,0
+52,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.2,JJ Roy,KS Williamson,Shahbaz Ahmed,0,1,1,0,0,0,0
+53,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.3,KS Williamson,JJ Roy,Shahbaz Ahmed,0,1,1,0,0,0,0
+54,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.4,JJ Roy,KS Williamson,Shahbaz Ahmed,0,2,2,0,0,0,0
+55,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.5,JJ Roy,KS Williamson,Shahbaz Ahmed,0,1,1,0,0,0,0
+56,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,8.6,KS Williamson,JJ Roy,Shahbaz Ahmed,0,1,1,0,0,0,0
+57,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.1,KS Williamson,JJ Roy,YS Chahal,0,4,4,0,0,0,0
+58,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.2,KS Williamson,JJ Roy,YS Chahal,0,2,2,0,0,0,0
+59,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.3,KS Williamson,JJ Roy,YS Chahal,0,0,0,0,0,0,0
+60,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.4,KS Williamson,JJ Roy,YS Chahal,0,2,2,0,0,0,0
+61,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.5,KS Williamson,JJ Roy,YS Chahal,0,1,1,0,0,0,0
+62,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,9.6,JJ Roy,KS Williamson,YS Chahal,0,0,0,0,0,0,0
+63,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.1,KS Williamson,JJ Roy,Shahbaz Ahmed,0,1,1,0,0,0,0
+64,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.2,JJ Roy,KS Williamson,Shahbaz Ahmed,0,1,1,0,0,0,0
+65,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.3,KS Williamson,JJ Roy,Shahbaz Ahmed,0,1,1,0,0,0,0
+66,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.4,JJ Roy,KS Williamson,Shahbaz Ahmed,0,1,1,0,0,0,0
+67,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.5,KS Williamson,JJ Roy,Shahbaz Ahmed,0,1,1,0,0,0,0
+68,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,10.6,JJ Roy,KS Williamson,Shahbaz Ahmed,0,0,0,0,0,0,0
+69,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.1,KS Williamson,JJ Roy,HV Patel,0,1,1,0,0,0,0
+70,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.2,JJ Roy,KS Williamson,HV Patel,0,2,2,0,0,0,0
+71,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.3,JJ Roy,KS Williamson,HV Patel,0,0,0,0,KS Williamson,bowled,0
+72,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.4,JJ Roy,PK Garg,HV Patel,0,2,2,0,0,0,0
+73,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.5,JJ Roy,PK Garg,HV Patel,0,1,1,0,0,0,0
+74,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,11.6,PK Garg,JJ Roy,HV Patel,0,4,4,0,0,0,0
+75,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.1,JJ Roy,PK Garg,DT Christian,0,1,1,0,0,0,0
+76,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.2,PK Garg,JJ Roy,DT Christian,0,0,0,0,0,0,0
+77,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.3,PK Garg,JJ Roy,DT Christian,0,1,1,0,0,0,0
+78,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.4,JJ Roy,PK Garg,DT Christian,0,2,2,0,0,0,0
+79,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.5,JJ Roy,PK Garg,DT Christian,0,0,0,0,0,0,0
+80,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,12.6,JJ Roy,PK Garg,DT Christian,0,1,1,0,0,0,0
+81,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.1,JJ Roy,PK Garg,YS Chahal,0,6,6,0,0,0,0
+82,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.2,JJ Roy,PK Garg,YS Chahal,0,1,1,0,0,0,0
+83,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.3,PK Garg,JJ Roy,YS Chahal,0,0,0,0,0,0,0
+84,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.4,PK Garg,JJ Roy,YS Chahal,0,1,1,0,0,0,0
+85,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.5,JJ Roy,PK Garg,YS Chahal,0,0,0,0,0,0,0
+86,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,13.6,JJ Roy,PK Garg,YS Chahal,0,1,1,0,0,0,0
+87,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.1,JJ Roy,PK Garg,DT Christian,0,0,0,0,PK Garg,caught,AB de Villiers
+88,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.2,Abdul Samad,JJ Roy,DT Christian,0,1,1,0,0,0,0
+89,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.3,JJ Roy,Abdul Samad,DT Christian,0,0,0,0,0,0,0
+90,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.4,JJ Roy,Abdul Samad,DT Christian,0,1,1,0,0,0,0
+91,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.5,Abdul Samad,JJ Roy,DT Christian,0,0,0,0,0,0,0
+92,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,14.6,Abdul Samad,JJ Roy,DT Christian,0,0,0,0,JJ Roy,caught and bowled,0
+93,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.1,WP Saha,Abdul Samad,YS Chahal,0,0,0,0,Abdul Samad,lbw,0
+94,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.2,WP Saha,JO Holder,YS Chahal,0,1,1,0,0,0,0
+95,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.3,JO Holder,WP Saha,YS Chahal,0,1,1,0,0,0,0
+96,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.4,WP Saha,JO Holder,YS Chahal,0,1,1,0,0,0,0
+97,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.5,JO Holder,WP Saha,YS Chahal,0,2,2,0,0,0,0
+98,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,15.6,JO Holder,WP Saha,YS Chahal,0,1,1,0,0,0,0
+99,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.1,JO Holder,WP Saha,DT Christian,0,1,1,0,0,0,0
+100,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.2,WP Saha,JO Holder,DT Christian,0,4,4,0,0,0,0
+101,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.3,WP Saha,JO Holder,DT Christian,0,1,1,0,0,0,0
+102,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.4,JO Holder,WP Saha,DT Christian,0,0,0,0,0,0,0
+103,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.5,JO Holder,WP Saha,DT Christian,0,1,1,0,0,0,0
+104,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,16.6,WP Saha,JO Holder,DT Christian,0,0,0,0,0,0,0
+105,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.1,JO Holder,WP Saha,HV Patel,0,4,4,0,0,0,0
+106,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.2,JO Holder,WP Saha,HV Patel,0,0,0,0,WP Saha,caught,AB de Villiers
+107,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.3,Rashid Khan,JO Holder,HV Patel,0,1,1,0,0,0,0
+108,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.4,JO Holder,Rashid Khan,HV Patel,0,1,1,0,0,0,0
+109,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.5,Rashid Khan,JO Holder,HV Patel,0,4,4,0,0,0,0
+110,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,17.6,Rashid Khan,JO Holder,HV Patel,0,0,0,0,0,0,0
+111,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.1,JO Holder,Rashid Khan,Mohammed Siraj,0,0,0,0,0,0,0
+112,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.2,JO Holder,Rashid Khan,Mohammed Siraj,0,4,4,0,0,0,0
+113,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.3,JO Holder,Rashid Khan,Mohammed Siraj,0,1,1,0,0,0,0
+114,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.4,Rashid Khan,JO Holder,Mohammed Siraj,0,1,1,0,0,0,0
+115,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.5,JO Holder,Rashid Khan,Mohammed Siraj,0,0,0,0,0,0,0
+116,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,18.6,JO Holder,Rashid Khan,Mohammed Siraj,0,0,0,0,0,0,0
+117,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.1,Rashid Khan,JO Holder,HV Patel,0,2,2,0,0,0,0
+118,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.2,Rashid Khan,JO Holder,HV Patel,0,0,0,0,0,0,0
+119,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.3,Rashid Khan,JO Holder,HV Patel,0,1,1,0,0,0,0
+120,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.4,JO Holder,Rashid Khan,HV Patel,0,0,0,0,0,0,0
+121,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.5,JO Holder,Rashid Khan,HV Patel,1,0,1,noballs,0,0,0
+122,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.6,JO Holder,Rashid Khan,HV Patel,0,1,1,0,0,0,0
+123,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,19.7,Rashid Khan,JO Holder,HV Patel,0,0,0,0,JO Holder,caught,DT Christian
+124,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.1,D Padikkal,V Kohli,B Kumar,0,4,4,0,0,0,0
+125,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.2,D Padikkal,V Kohli,B Kumar,0,0,0,0,0,0,0
+126,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.3,D Padikkal,V Kohli,B Kumar,0,1,1,0,0,0,0
+127,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.4,V Kohli,D Padikkal,B Kumar,0,0,0,0,0,0,0
+128,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.5,V Kohli,D Padikkal,B Kumar,0,1,1,0,0,0,0
+129,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,0.6,D Padikkal,V Kohli,B Kumar,0,0,0,0,V Kohli,lbw,0
+130,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.1,DT Christian,D Padikkal,JO Holder,0,0,0,0,0,0,0
+131,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.2,DT Christian,D Padikkal,JO Holder,0,4,4,0,0,0,0
+132,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.3,DT Christian,D Padikkal,JO Holder,0,0,0,0,0,0,0
+133,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.4,DT Christian,D Padikkal,JO Holder,0,2,2,0,0,0,0
+134,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.5,DT Christian,D Padikkal,JO Holder,1,0,1,wides,0,0,0
+135,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.6,DT Christian,D Padikkal,JO Holder,0,0,0,0,0,0,0
+136,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,1.7,DT Christian,D Padikkal,JO Holder,0,0,0,0,0,0,0
+137,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.1,D Padikkal,DT Christian,B Kumar,0,0,0,0,0,0,0
+138,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.2,D Padikkal,DT Christian,B Kumar,0,1,1,0,0,0,0
+139,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.3,DT Christian,D Padikkal,B Kumar,0,4,4,0,0,0,0
+140,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.4,DT Christian,D Padikkal,B Kumar,0,0,0,0,0,0,0
+141,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.5,DT Christian,D Padikkal,B Kumar,0,0,0,0,0,0,0
+142,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,2.6,DT Christian,D Padikkal,B Kumar,0,0,0,0,0,0,0
+143,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.1,D Padikkal,DT Christian,S Kaul,0,0,0,0,0,0,0
+144,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.2,D Padikkal,DT Christian,S Kaul,0,0,0,0,DT Christian,caught,KS Williamson
+145,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.3,KS Bharat,D Padikkal,S Kaul,0,0,0,0,0,0,0
+146,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.4,KS Bharat,D Padikkal,S Kaul,0,0,0,0,0,0,0
+147,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.5,KS Bharat,D Padikkal,S Kaul,0,0,0,0,0,0,0
+148,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,3.6,KS Bharat,D Padikkal,S Kaul,0,0,0,0,0,0,0
+149,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.1,D Padikkal,KS Bharat,JO Holder,0,0,0,0,0,0,0
+150,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.2,D Padikkal,KS Bharat,JO Holder,0,1,1,0,0,0,0
+151,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.3,KS Bharat,D Padikkal,JO Holder,0,0,0,0,0,0,0
+152,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.4,KS Bharat,D Padikkal,JO Holder,0,4,4,0,0,0,0
+153,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.5,KS Bharat,D Padikkal,JO Holder,0,1,1,0,0,0,0
+154,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,4.6,D Padikkal,KS Bharat,JO Holder,1,0,1,legbyes,0,0,0
+155,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.1,D Padikkal,KS Bharat,S Kaul,0,0,0,0,0,0,0
+156,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.2,D Padikkal,KS Bharat,S Kaul,0,1,1,0,0,0,0
+157,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.3,KS Bharat,D Padikkal,S Kaul,0,0,0,0,0,0,0
+158,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.4,KS Bharat,D Padikkal,S Kaul,0,1,1,0,0,0,0
+159,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.5,D Padikkal,KS Bharat,S Kaul,0,6,6,0,0,0,0
+160,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,5.6,D Padikkal,KS Bharat,S Kaul,0,4,4,0,0,0,0
+161,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.1,KS Bharat,D Padikkal,Umran Malik,0,0,0,0,0,0,0
+162,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.2,KS Bharat,D Padikkal,Umran Malik,0,1,1,0,0,0,0
+163,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.3,D Padikkal,KS Bharat,Umran Malik,0,0,0,0,0,0,0
+164,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.4,D Padikkal,KS Bharat,Umran Malik,0,0,0,0,0,0,0
+165,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.5,D Padikkal,KS Bharat,Umran Malik,0,0,0,0,KS Bharat,caught,WP Saha
+166,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,6.6,D Padikkal,GJ Maxwell,Umran Malik,0,0,0,0,0,0,0
+167,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.1,GJ Maxwell,D Padikkal,Rashid Khan,0,0,0,0,0,0,0
+168,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.2,GJ Maxwell,D Padikkal,Rashid Khan,0,1,1,0,0,0,0
+169,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.3,D Padikkal,GJ Maxwell,Rashid Khan,0,6,6,0,0,0,0
+170,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.4,D Padikkal,GJ Maxwell,Rashid Khan,0,0,0,0,0,0,0
+171,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.5,D Padikkal,GJ Maxwell,Rashid Khan,0,1,1,0,0,0,0
+172,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,7.6,GJ Maxwell,D Padikkal,Rashid Khan,0,1,1,0,0,0,0
+173,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.1,GJ Maxwell,D Padikkal,Umran Malik,0,0,0,0,0,0,0
+174,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.2,GJ Maxwell,D Padikkal,Umran Malik,0,2,2,0,0,0,0
+175,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.3,GJ Maxwell,D Padikkal,Umran Malik,0,0,0,0,0,0,0
+176,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.4,GJ Maxwell,D Padikkal,Umran Malik,0,1,1,0,0,0,0
+177,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.5,D Padikkal,GJ Maxwell,Umran Malik,0,2,2,0,0,0,0
+178,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,8.6,D Padikkal,GJ Maxwell,Umran Malik,0,0,0,0,0,0,0
+179,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.1,GJ Maxwell,D Padikkal,Rashid Khan,0,1,1,0,0,0,0
+180,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.2,D Padikkal,GJ Maxwell,Rashid Khan,0,6,6,0,0,0,0
+181,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.3,D Padikkal,GJ Maxwell,Rashid Khan,0,0,0,0,0,0,0
+182,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.4,D Padikkal,GJ Maxwell,Rashid Khan,0,4,4,0,0,0,0
+183,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.5,D Padikkal,GJ Maxwell,Rashid Khan,0,2,2,0,0,0,0
+184,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,9.6,D Padikkal,GJ Maxwell,Rashid Khan,0,2,2,0,0,0,0
+185,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.1,GJ Maxwell,D Padikkal,Umran Malik,0,0,0,0,0,0,0
+186,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.2,GJ Maxwell,D Padikkal,Umran Malik,0,1,1,0,0,0,0
+187,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.3,D Padikkal,GJ Maxwell,Umran Malik,0,1,1,0,0,0,0
+188,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.4,GJ Maxwell,D Padikkal,Umran Malik,0,0,0,0,0,0,0
+189,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.5,GJ Maxwell,D Padikkal,Umran Malik,0,1,1,0,0,0,0
+190,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,10.6,D Padikkal,GJ Maxwell,Umran Malik,0,1,1,0,0,0,0
+191,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.1,D Padikkal,GJ Maxwell,S Kaul,0,0,0,0,0,0,0
+192,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.2,D Padikkal,GJ Maxwell,S Kaul,0,4,4,0,0,0,0
+193,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.3,D Padikkal,GJ Maxwell,S Kaul,0,0,0,0,0,0,0
+194,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.4,D Padikkal,GJ Maxwell,S Kaul,0,1,1,0,0,0,0
+195,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.5,GJ Maxwell,D Padikkal,S Kaul,0,1,1,0,0,0,0
+196,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,11.6,D Padikkal,GJ Maxwell,S Kaul,0,0,0,0,0,0,0
+197,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.1,GJ Maxwell,D Padikkal,JO Holder,0,1,1,0,0,0,0
+198,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.2,D Padikkal,GJ Maxwell,JO Holder,1,0,1,wides,0,0,0
+199,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.3,D Padikkal,GJ Maxwell,JO Holder,0,4,4,0,0,0,0
+200,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.4,D Padikkal,GJ Maxwell,JO Holder,0,1,1,0,0,0,0
+201,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.5,GJ Maxwell,D Padikkal,JO Holder,0,1,1,0,0,0,0
+202,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.6,D Padikkal,GJ Maxwell,JO Holder,0,1,1,0,0,0,0
+203,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,12.7,GJ Maxwell,D Padikkal,JO Holder,0,0,0,0,0,0,0
+204,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.1,D Padikkal,GJ Maxwell,B Kumar,0,0,0,0,0,0,0
+205,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.2,D Padikkal,GJ Maxwell,B Kumar,0,1,1,0,0,0,0
+206,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.3,GJ Maxwell,D Padikkal,B Kumar,0,1,1,0,0,0,0
+207,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.4,D Padikkal,GJ Maxwell,B Kumar,0,2,2,0,0,0,0
+208,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.5,D Padikkal,GJ Maxwell,B Kumar,0,1,1,0,0,0,0
+209,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,13.6,GJ Maxwell,D Padikkal,B Kumar,0,1,1,0,0,0,0
+210,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.1,GJ Maxwell,D Padikkal,Rashid Khan,0,0,0,0,GJ Maxwell,run out,0
+211,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.2,D Padikkal,AB de Villiers,Rashid Khan,0,1,1,0,0,0,0
+212,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.3,AB de Villiers,D Padikkal,Rashid Khan,0,0,0,0,0,0,0
+213,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.4,AB de Villiers,D Padikkal,Rashid Khan,0,4,4,0,0,0,0
+214,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.5,AB de Villiers,D Padikkal,Rashid Khan,0,0,0,0,0,0,0
+215,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,14.6,AB de Villiers,D Padikkal,Rashid Khan,0,1,1,0,0,0,0
+216,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.1,AB de Villiers,D Padikkal,S Kaul,0,0,0,0,0,0,0
+217,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.2,AB de Villiers,D Padikkal,S Kaul,0,1,1,0,0,0,0
+218,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.3,D Padikkal,AB de Villiers,S Kaul,0,1,1,0,0,0,0
+219,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.4,AB de Villiers,D Padikkal,S Kaul,0,1,1,0,0,0,0
+220,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.5,D Padikkal,AB de Villiers,S Kaul,0,2,2,0,0,0,0
+221,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,15.6,D Padikkal,AB de Villiers,S Kaul,0,1,1,0,0,0,0
+222,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.1,D Padikkal,AB de Villiers,Rashid Khan,0,1,1,0,0,0,0
+223,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.2,AB de Villiers,D Padikkal,Rashid Khan,0,2,2,0,0,0,0
+224,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.3,AB de Villiers,D Padikkal,Rashid Khan,0,1,1,0,0,0,0
+225,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.4,D Padikkal,AB de Villiers,Rashid Khan,0,1,1,0,0,0,0
+226,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.5,AB de Villiers,D Padikkal,Rashid Khan,0,0,0,0,D Padikkal,caught,Abdul Samad
+227,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,16.6,Shahbaz Ahmed,AB de Villiers,Rashid Khan,0,4,4,0,0,0,0
+228,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.1,AB de Villiers,Shahbaz Ahmed,Umran Malik,0,4,4,0,0,0,0
+229,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.2,AB de Villiers,Shahbaz Ahmed,Umran Malik,0,0,0,0,0,0,0
+230,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.3,AB de Villiers,Shahbaz Ahmed,Umran Malik,0,1,1,0,0,0,0
+231,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.4,Shahbaz Ahmed,AB de Villiers,Umran Malik,0,1,1,0,0,0,0
+232,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.5,AB de Villiers,Shahbaz Ahmed,Umran Malik,0,4,4,0,0,0,0
+233,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,17.6,AB de Villiers,Shahbaz Ahmed,Umran Malik,0,1,1,0,0,0,0
+234,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.1,AB de Villiers,Shahbaz Ahmed,JO Holder,0,2,2,0,0,0,0
+235,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.2,AB de Villiers,Shahbaz Ahmed,JO Holder,0,2,2,0,0,0,0
+236,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.3,AB de Villiers,Shahbaz Ahmed,JO Holder,0,0,0,0,0,0,0
+237,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.4,AB de Villiers,Shahbaz Ahmed,JO Holder,0,0,0,0,Shahbaz Ahmed,caught,KS Williamson
+238,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.5,AB de Villiers,GHS Garton,JO Holder,0,1,1,0,0,0,0
+239,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,18.6,GHS Garton,AB de Villiers,JO Holder,0,0,0,0,0,0,0
+240,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.1,AB de Villiers,GHS Garton,B Kumar,0,0,0,0,0,0,0
+241,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.2,AB de Villiers,GHS Garton,B Kumar,0,1,1,0,0,0,0
+242,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.3,GHS Garton,AB de Villiers,B Kumar,0,0,0,0,0,0,0
+243,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.4,GHS Garton,AB de Villiers,B Kumar,0,6,6,0,0,0,0
+244,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.5,GHS Garton,AB de Villiers,B Kumar,0,0,0,0,0,0,0
+245,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,19.6,GHS Garton,AB de Villiers,B Kumar,0,1,1,0,0,0,0
